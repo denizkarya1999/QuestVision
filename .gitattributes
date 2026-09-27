@@ -1,0 +1,13 @@
+* text=auto
+*.cs text eol=lf
+*.unity text eol=lf
+*.asset text eol=lf
+*.meta text eol=lf
+*.mat text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.xml text eol=lf
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.apk binary

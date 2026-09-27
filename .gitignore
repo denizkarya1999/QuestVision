@@ -1,0 +1,42 @@
+# Unity-generated files and local build output
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/.utmp/
+mono_crash.*
+sysinfo.txt
+
+# IDE and operating-system files
+/.vs/
+/.vscode/
+/.idea/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.pidb
+*.unityproj
+*.booproj
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# Local secrets, signing keys, and Meta upload/developer-agent settings
+.env
+.env.*
+!.env.example
+*.keystore
+*.jks
+*.p12
+*.pfx
+/Assets/Resources/DevAgentSettings.asset
+/Assets/Resources/DevAgentSettings.asset.meta
+/Assets/Resources/OVRPlatformToolSettings.asset
+/Assets/Resources/OVRPlatformToolSettings.asset.meta
