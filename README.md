@@ -4,6 +4,13 @@ A Unity mixed reality playground for Meta Quest 2 and 3. Its current app, **AR C
 
 The app has been tested on **Quest 2**. The project also targets **Quest 3 and Quest 3S**, which have not yet been tested with this app.
 
+## Screenshots
+
+<p align="center">
+  <img src="Screenshots/1.jpg" alt="AR Cube controls card and coloured cube in Quest" width="45%" />
+  <img src="Screenshots/2.jpg" alt="AR Cube showing saved writing on the coloured cube" width="45%" />
+</p>
+
 ## Features
 
 - Passthrough view of your room with a 45 cm cube that stays in place as you move.
